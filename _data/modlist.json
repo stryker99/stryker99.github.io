@@ -6,6 +6,12 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -22,5 +28,23 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "5.0.3.2"
+  },
+  {
+    "author": "NavySeal",
+    "name": "CleaningStation",
+    "steamId": "1541893512",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   }
 ]
