@@ -46,5 +46,223 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": "2260012940",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module"
+  },
+  {
+    "author": "Oskar Potocki, Trunken, XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Armour Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Arid Shrubland",
+    "steamId": "1836900626",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Cats and Dogs"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": "2134308519",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons"
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns"
+  },
+  {
+    "author": "Oskar Potocki, Erin, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal"
+  },
+  {
+    "author": "Oskar Potocki, Luizi, xrushhha",
+    "name": "Vanilla Weapons Expanded - Frontier"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Tribal"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest"
+  },
+  {
+    "author": "DoctorVanGogh",
+    "name": "Reclaim, Reuse, Recycle",
+    "steamId": "",
+    "version": "1.7.0.223"
+  },
+  {
+    "author": "Kriil",
+    "name": "Combat Training"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "NavySeal",
+    "name": "More Harvest Designators!"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Toggle Harvest"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Doormats",
+    "steamId": "1508778962",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Porohkun",
+    "name": "Concrete Walls"
+  },
+  {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lockdown/Keeper",
+    "name": "Melee Hunting"
+  },
+  {
+    "author": "(see description)",
+    "name": "Extended Storage",
+    "steamId": "",
+    "version": "3.5.0.0"
   }
 ]
